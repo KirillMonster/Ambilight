@@ -13,7 +13,7 @@ public class Main {
     static final int SIZE = 100; // Количество пикселей для захвата
     static float SATURATION = 0.4f; // Насыщенность цветов
 
-    // Усиление цвте цвета
+    // Усиление цвета
     static float AMPLIFY_RED = 1.0f;
     static float AMPLIFY_GREEN = 1.0f;
     static float AMPLIFY_BLUE = 1.0f;
