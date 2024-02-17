@@ -11,7 +11,8 @@ public class Main {
     static final int WIDTH = 2560;
     static final int HEIGHT = 1440;
     static final int SIZE = 100; // Количество пикселей для захвата
-    static float SATURATION = 0.4f; // Насыщенность цветов
+    
+    static float SATURATION = 0.40; // Насыщенность цветов
 
     // Усиление цвета
     static float AMPLIFY_RED = 1.0f;
