@@ -4,6 +4,6 @@
 В качестве основы использован исходный код проекта
 
 # Arduino
-Использовано ядро: *GyverCore*
-Плата *Arduino Nano*
-Библиотеки: FastLED
+Использовано ядро: GyverCore  
+Плата Arduino Nano 
+
