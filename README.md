@@ -7,4 +7,3 @@
 
 Использовано ядро: GyverCore  
 Плата Arduino Nano 
-
