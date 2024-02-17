@@ -1,6 +1,6 @@
 # Ambilight
 
-Форк проекта https://github.com/AlexGyver/Arduino_Ambilight
+Форк проекта https://github.com/AlexGyver/Arduino_Ambilight \n
 Схемы и подключения указаны в оригинальном проекте
 
 В качестве основы исходный код проекта
